@@ -2,7 +2,7 @@
 """
 A python library to do development based in Finite State Machines.
 """
-__version__ = '0.7.1'
+__version__ = '0.7.2'
 __title__ = 'ginsfsm'
 __author__ = 'Ginés Martínez'
 __license__ = 'MIT License'

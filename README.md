@@ -52,7 +52,7 @@ making **traversal dispatching** a natural fit.
 
 ## Support and Documentation
 
-- Documentation: [ginsfsm.org](http://ginsfsm.org)  
+- Documentation: [ginsfsm](https://pythonhosted.org/ginsfsm/index.html)  
 - Source Code: [GitHub](https://github.com/artgins/yunetas)
 
 ## License

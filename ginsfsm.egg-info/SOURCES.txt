@@ -1,8 +1,8 @@
 MANIFEST.in
-README.rst
-setup.cfg
-setup.py
+README.md
+pyproject.toml
 ginsfsm/__init__.py
+ginsfsm/__version__.py
 ginsfsm/buffers.py
 ginsfsm/c_connex.py
 ginsfsm/c_sock.py
@@ -29,7 +29,6 @@ ginsfsm.egg-info/PKG-INFO
 ginsfsm.egg-info/SOURCES.txt
 ginsfsm.egg-info/dependency_links.txt
 ginsfsm.egg-info/entry_points.txt
-ginsfsm.egg-info/not-zip-safe
 ginsfsm.egg-info/requires.txt
 ginsfsm.egg-info/top_level.txt
 ginsfsm/examples/__init__.py
