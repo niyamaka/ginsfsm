@@ -1,0 +1,40 @@
+Metadata-Version: 2.4
+Name: ginsfsm
+Version: 0.7.1
+Summary: GinsFSM, a library to develop systems based in finite-state machines. It's a communication framework, including a full asynchronous http/wsgi/winsocket/sockjs server. Ideal for working with Pyramid using traversal dispatch.
+Home-page: http://ginsfsm.org
+Author: Ginés Martínez
+Author-email: ginsmar at artgins.com
+License: MIT License
+Keywords: framework communication fsm finite state machine fsm wsgi http socket poll epoll kqueue select server client workflow pyramid websocket sockjs
+Classifier: Intended Audience :: Developers
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Communications
+Classifier: Topic :: System :: Networking
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: PasteDeploy>=1.5.0
+Requires-Dist: Pyramid>=1.4
+Provides-Extra: rst
+Requires-Dist: docutils; extra == "rst"
+Requires-Dist: svgwrite; extra == "rst"
+Requires-Dist: pillow; extra == "rst"
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: summary
+
+
+

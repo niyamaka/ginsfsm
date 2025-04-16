@@ -1,0 +1,13 @@
+[console_scripts]
+gconsole = ginsfsm.scripts.gconsole:main
+gcreate = ginsfsm.scripts.gcreate:main
+ginsfsm-help = ginsfsm.scripts.help:main
+gserve = ginsfsm.scripts.gserve:main
+
+[ginsfsm.scaffold]
+multi_pyramid_wsgi = ginsfsm.scaffolds:MultiplePyramidWsgiTemplate
+multiple_wsgi = ginsfsm.scaffolds:MultipleWsgiTemplate
+simple_gobj = ginsfsm.scaffolds:SimpleGObjTemplate
+simple_pyramid = ginsfsm.scaffolds:SimplePyramidTemplate
+simple_websocket_server = ginsfsm.scaffolds:SimpleWebsocketServerTemplate
+simple_wsgi = ginsfsm.scaffolds:SimpleWsgiTemplate
